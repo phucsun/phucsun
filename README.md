@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub Profile!
 
-Hi, I'm **Nguyen Tien Phuc**, a university student with a deep interest in **Artificial Intelligence**, **Computer Vision**, and **Deep Learning**.  
+Hi, I'm **Nguyen Tien Phuc**, a university student with a deep interest in **Artificial Intelligence**.  
 I enjoy building intelligent systems that can see, understand, and learn from data.
 
 ---
