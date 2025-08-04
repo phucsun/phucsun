@@ -14,9 +14,9 @@ I enjoy building intelligent systems that can see, understand, and learn from da
 ---
 
 ### 🛠️ Tech Stack & Tools:
-- **Languages**: Python, JavaScript, HTML/CSS  
-- **Frameworks**: PyTorch, TensorFlow, OpenCV, FastAPI  
-- **Tools**: Git, Jupyter, VSCode, Docker
+- **Languages**: Python, JavaScript, HTML/CSS, C++, JavaScript, Pug, Java,... 
+- **Frameworks**: PyTorch, TensorFlow, OpenCV, FastAPI, Pytorch,...
+- **Tools**: Git, Jupyter, Docker, Kaggle, Colab,...
 
 ---
 
